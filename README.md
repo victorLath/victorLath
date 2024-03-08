@@ -7,6 +7,7 @@
 - 💬 A propos de moi : Je m'appelle **LATH Victor**, actuellement étudiant en **informatique** à l'IUT Nancy-Charlemagne, Université de lorraine. Ma formation
 comporte la particularité qu'au cours de la troisième année, j'ai suivi le parcours **Réalisation d'application - Ingénierie logiciel** (RA-IL).
 - ⚙️ Objectifs du parcours RA-IL : 
+- Les compétences de ce parcours sont à la section **Connaissances spécifiques au parcours** 
 
 ## 👨‍💻 Tableau des compétences
 
