@@ -4,18 +4,20 @@
 
 ### Bienvenue sur mon portfolio Github !
 
-- 💬 A propos de moi : Je m'appelle **LATH Victor**, actuellement étudiant en **informatique** à l'IUT Nancy-Charlemagne, Université de lorraine. Ma formation
+- 💬 A propos de moi : Je m'appelle **LATH Victor**, actuellement en troisème année de BUT **informatique** à l'IUT Nancy-Charlemagne, Université de lorraine. Ma formation
 comporte la particularité qu'au cours de la troisième année, j'ai suivi le parcours **Réalisation d'application - Ingénierie logiciel** (RA-IL).
-- ⚙️ Objectifs du parcours RA-IL : 
+- ⚙️ Objectifs du parcours RA-IL :
+- Ce parcours est orienté vers le developpement de logiciel ainsi qu'à la poursuite d'étude. Dans ce parcours, nous apprenons des compétences permettant de créer et concevoir des logiciels. En effet, ce parcours est orienté théorie et méthodes de l'informatique.
 - Les compétences de ce parcours sont à la section **Connaissances spécifiques au parcours**
+  
 
 ## 👨‍💻 Tableau des compétences
 
 | Compétence                   | Description                                                                                                         | Note / 5 | Justification |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------- | ---- | ------------- |
-| Réaliser des applications    | Programmation et conception objet, pattern usuels, modélisation, analyse des besoins, tests unitaires et validation | ⭐⭐⭐     |               |
-| Optimiser des applications   | Algorithmes itératifs et récursifs, structures de données classiques, coût et complexité, outils mathématiques      |   ⭐⭐⭐⭐   |               |
-| Administrer les applications | Administration système de base, configuration, protocoles et services en réseau                                     |  ⭐⭐   |               |
+| Réaliser des applications    | Programmation et conception objet, pattern usuels, modélisation, analyse des besoins, tests unitaires et validation | ⭐⭐⭐     |Je suis capable de programmer une application en fonction des besoins. En effet, selon les problématiques, je saurais utiliser le bon design pattern et mettre en place un environnement de tests permettant de rendre l'application plus stable. Sur tout nos projets de programmation, j'ai pu affiner mes compétences en structuration de code et de stabilité.                |
+| Optimiser des applications   | Algorithmes itératifs et récursifs, structures de données classiques, coût et complexité, outils mathématiques      |   ⭐⭐⭐⭐   |Je peux mettre en place la bonne structure de donnée et utilisé le bon algorithme avec la structure de données associée.              |
+| Administrer les applications | Administration système de base, configuration, protocoles et services en réseau                                     |  ⭐⭐   | Le arcours RAIL n'est pas destiné à faire de l'administration réseau. Cependant, nous avons eu quelques cours sur le réseau et le système linux.               |
 | Gérer des données            | Modélisation des données, programmation SQL, transactions                                                           |  ⭐⭐⭐    |               |
 | Conduire un développement    | Besoins client, travail en projet, agilité                                                                          |    ⭐⭐⭐⭐ |               |
 | Collaborer                   | Communication professionnelle en français, en anglais, travail en équipe, partage de documents et du code           |   ⭐⭐⭐⭐⭐   |               |
@@ -23,8 +25,7 @@ comporte la particularité qu'au cours de la troisième année, j'ai suivi le pa
 
 ## Compétences techniques générales
 
-
-| Compétence                    | Description                                                                                                                                                                                                                                                                                                                                        | Note | Justification |
+| Compétence                    | Description                                                                                                                                                                                                                                                                                                                                        | Note/5 | Justification |
 | ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ------------- |
 | Programmation                 | Algorithmique : itérations, récursivité, structures de données avancées, Programmation objet en Java et PHP, programmation en C, programmation fonctionnelle en Javascript et Scala, programmation événementielle, Bonnes pratiques : patrons de conception, principes SOLID, normes et recommandations, Capacité d’adaptation à d’autres langages |     ⭐⭐⭐ |               |
 | Développement                 | Analyse et conception objet en UML, Processus unifié, itération, sensibilisation à l’agilité, refactoring, Tests unitaires (junit, phpunit), gestion du code (git), documentation (javadoc), revue de code, Projet : méthode PERT, planification des coûts, diagrammes de Gantt                                                                    |  ⭐⭐⭐⭐    |               |
@@ -36,7 +37,7 @@ comporte la particularité qu'au cours de la troisième année, j'ai suivi le pa
 
 ## Connaissances spécifiques au parcours
 
-| Compétence                                                 | Note | Justification |
+| Compétence                                                 | Note/5 | Justification |
 | ---------------------------------------------------------- | ---- | ------------- |
 | Logique des propositions et des prédicats du premier ordre |   ⭐⭐   |               |
 | Initiation à l’Intelligence Artificielle                   |  ⭐⭐⭐    |               |
