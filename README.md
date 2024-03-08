@@ -2,10 +2,11 @@
 
 ## Présentation
 
-### Bienvenue sur mon profil Github !
+### Bienvenue sur mon portfolio Github !
 
-- 💬 A propos de moi : Je m'appelle LATH Victor, actuellement étudiant en informatique à l'IUT Nancy-Charlemagne, Université de lorraine. Ma formation
-comporte la particularité qu'au semestre 4, on devait choisir un parcours de spécialisation.
+- 💬 A propos de moi : Je m'appelle **LATH Victor**, actuellement étudiant en **informatique** à l'IUT Nancy-Charlemagne, Université de lorraine. Ma formation
+comporte la particularité qu'au cours de la troisième année, j'ai suivi le parcours **Réalisation d'application - Ingénierie logiciel** (RA-IL).
+- ⚙️ Objectifs du parcours RA-IL : 
 
 ## 👨‍💻 Tableau des compétences
 
@@ -24,7 +25,7 @@ comporte la particularité qu'au semestre 4, on devait choisir un parcours de sp
 
 | Compétence                    | Description                                                                                                                                                                                                                                                                                                                                        | Note | Justification |
 | ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ------------- |
-| Programmation                 | Algorithmique : itérations, récursivité, structures de données avancées, Programmation objet en Java et PHP, programmation en C, programmation fonctionnelle en Javascript et Scala, programmation événementielle, Bonnes pratiques : patrons de conception, principes SOLID, normes et recommandations, Capacité d’adaptation à d’autres langages |      |               |
+| Programmation                 | Algorithmique : itérations, récursivité, structures de données avancées, Programmation objet en Java et PHP, programmation en C, programmation fonctionnelle en Javascript et Scala, programmation événementielle, Bonnes pratiques : patrons de conception, principes SOLID, normes et recommandations, Capacité d’adaptation à d’autres langages |     ⭐⭐⭐⭐ |               |
 | Développement                 | Analyse et conception objet en UML, Processus unifié, itération, sensibilisation à l’agilité, refactoring, Tests unitaires (junit, phpunit), gestion du code (git), documentation (javadoc), revue de code, Projet : méthode PERT, planification des coûts, diagrammes de Gantt                                                                    |      |               |
 | Systèmes & réseaux            | Processus, threads, système de fichiers, shell, Windows (utilisation), Unix (programmation shell et système en C), Protocoles et services réseaux intranet/internet, TCP/IP, DNS, HTTP, socket, RMI                                                                                                                                                |      |               |
 | Bases de données              | Modèle relationnel, SQL/PL-SQL, JDBC/PDO, Oracle, MySQL, Modèle conceptuel en UML, transformation en relations,Normalisation,Capacité d’adaptation à d’autres SGBD relationnels,NoSQL                                                                                                                                                              |      |               |
@@ -40,7 +41,7 @@ comporte la particularité qu'au semestre 4, on devait choisir un parcours de sp
 | Initiation à l’Intelligence Artificielle                   |      |               |
 | Méthodes d’optimisation pour l’aide à la décision          |      |               |
 | Compilation - Théorie des langages et analyse syntaxique   |      |               |
-| Métriques d’évaluation de la qualité des algorithmes       |      |               |
+| Métriques d’évaluation de la qualité des algorithmes       |      |   Compétence en cours d'acquisition            |
 | Modélisation mathématique                                  |      |               |
 
 
