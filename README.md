@@ -40,7 +40,7 @@ comporte la particularité qu'au cours de la troisième année, j'ai suivi le pa
 | Compétence                                                 | Note/5 | Justification                     |
 | ---------------------------------------------------------- | ------ | --------------------------------- |
 | Logique des propositions et des prédicats du premier ordre | ⭐⭐     |                                   |
-| Initiation à l’Intelligence Artificielle                   | ⭐⭐⭐    | Je maîtrise les notions                                   |
+| Initiation à l’Intelligence Artificielle                   | ⭐⭐⭐    | Je maîtrise les notions en recherches d'abres avec les algorithmes associés (UCS,A*,Glouton,...). Ainsi que le fonctionnement des réseaux de neurones(perceprons multi-couches).                                 |
 | Méthodes d’optimisation pour l’aide à la décision          | ⭐⭐⭐⭐   |                                   |
 | Compilation - Théorie des langages et analyse syntaxique   | ⭐⭐⭐    |                                   |
 | Métriques d’évaluation de la qualité des algorithmes       |        | Compétence en cours d'acquisition |
